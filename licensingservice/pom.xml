@@ -11,6 +11,13 @@
 		<version>1.5.13.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+	
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<java.version>1.8</java.version>
+		<docker.image.name>licensingservice</docker.image.name>
+		<docker.image.tag>latest</docker.image.tag>
+	</properties>	
 
 	<dependencyManagement>
 		<dependencies>
