@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: organisationservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: derekhe
+Implementation-Vendor-Id: com.derekhe.cloudexample
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/organisation
+ service/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
